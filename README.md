@@ -17,8 +17,8 @@ This project demonstrates how to implement Google Sign-In on Android devices wit
 
 This project uses the following steps to achieve Google Sign-In without Google SDK:
 
-<p width={400} align="center">
-<img width='400' src='screenshots/googel-auth-flow.png' /> 
+<p align="center">
+<img src='screenshot/googel-auth-flow.png' /> 
 </p>
 
 1. **OAuth 2.0 Authorization**: Redirects the user to Google's OAuth 2.0 authorization endpoint using Chrome Custom Tabs.
@@ -27,6 +27,10 @@ This project uses the following steps to achieve Google Sign-In without Google S
 4. **Fetch User Profile**: The access token is used to fetch the user's profile information.
 
 ## Demo
+
+
+https://github.com/megaacheyounes/google-signin-custom-tabs/assets/36759976/6fa4a5e7-460d-48e0-b9db-ef9ca12f135c
+
 
 > video is loading, be patient!
 
