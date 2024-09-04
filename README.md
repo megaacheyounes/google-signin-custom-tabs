@@ -2,7 +2,9 @@
 
 ## Introduction
 
-This project demonstrates how to implement Google Sign-In on Android devices without using the Google Sign-In SDK. Instead, it leverages OAuth 2.0 Web APIs and Chrome Custom Tabs to authenticate users and fetch their profiles.
+This project demonstrates how to implement Google Sign-In on Android devices without using the Google Sign-In SDK. Instead, it leverages OAuth 2.0 Web APIs and Browser Custom Tabs to authenticate users and fetch their profiles.
+
+This approach do not require Google Play services, therefore it should work on all android devices.
 
 ## Contents
 
